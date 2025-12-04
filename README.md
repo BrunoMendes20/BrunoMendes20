@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Bruno Mendes
 
-**`Desenvolvedor Back-end PHP/Laravel`**
+**`Desenvolvedor Web`**
 
 Chamo-me **Bruno Mendes**, sou apaixonado por desenvolvimento web, com foco em **back-end usando PHP e Laravel**.  
 Tenho conhecimento em **HTML, CSS, JavaScript, Bootstrap** e bancos de dados como **MySQL** e **PostgreSQL**, mas meu principal objetivo é atuar como **Desenvolvedor Back-end Júnior**, construindo APIs REST, sistemas web e aplicações integradas com banco de dados.
